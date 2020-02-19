@@ -21,7 +21,7 @@ Task : you should create one R script called run_analysis.R that does the follow
 * Clone this repository to new directory
 * Change your working directory to this new directory
 * Open R command line
-* Start using $source("CourseProject.R")
+* Start using $source("run_analysis.R")
 
 
 
